@@ -1,5 +1,5 @@
 # Program Created by:- Ashutosh Kumar Pandey
-# Program created on:- 5th November, 2022
+# Program created on:- 5th November, 2022.
 
 def computeCommission(sales):
     if sales<=50000:
